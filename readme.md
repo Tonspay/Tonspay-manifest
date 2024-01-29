@@ -10,7 +10,7 @@ More details can be found in [Docs](https://docs.tonspay.top/)
 {
     "url": "https://tonspay.github.io/Tonspay-manifest/index.html",
     "name": "Tonspay",
-    "iconUrl": "https://tonspay.github.io/Tonspay-manifest/logo.jpg",
+    "iconUrl": "https://tonspay.github.io/Tonspay-manifest/logo.png",
     "termsOfUseUrl": "https://tonspay.github.io/Tonspay-manifest/terms-of-use.txt",
     "privacyPolicyUrl": "https://tonspay.github.io/Tonspay-manifest/privacy-policy.txt"
 }
